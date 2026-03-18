@@ -27,3 +27,14 @@
   color: black;
   font-weight: 600;
 }
+.stikey{
+  padding: 15px;
+  position: sticky;
+  top: 0px;
+  background-color: rgb(24, 22, 32);
+}
+.imgContainer img{
+  width: 100px;
+  margin-right: 15px;
+
+}
